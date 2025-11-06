@@ -1,0 +1,1 @@
+still haven't done anything preoeprly but soon wwill release the models that im training as of now the model which is avaliable is a very basic model whihc is half trained model with above average accraucy ok and i hve made this to predict profitgain,loos and damage --realted fincaial /trading 
